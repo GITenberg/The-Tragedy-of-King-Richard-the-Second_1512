@@ -1,5 +1,5 @@
 _repo: The-Tragedy-of-King-Richard-the-Second_1512
-_version: 0.2.0
+_version: 0.2.1
 alternative_title: The Tragedy of King Richard II
 covers:
 - cover_type: generated
@@ -32,5 +32,6 @@ subjects:
 - !lcsh 'Great Britain -- History -- Richard II, 1377-1399 -- Drama'
 - !lcsh 'Richard II, King of England, 1367-1400 -- Drama'
 - !lcsh 'Tragedies'
+- GITenberg
 title: The Tragedy of King Richard the Second
 url: http://www.gutenberg.org/ebooks/1512
